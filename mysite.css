@@ -16,7 +16,7 @@ body{
 .middle{
     background-color: #FDFFC2;
     margin: 0px 0px 0px 0px;
-    
+    align-items: center;
 }
 .last{
     background-color: #94FFD8;
